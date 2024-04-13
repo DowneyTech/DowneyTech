@@ -1,13 +1,13 @@
 <h3 align="center">A Graduate Student from Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y-watagashi&label=Profile%20views&color=0e75b6&style=flat" alt="y-watagashi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kin-downey&label=Profile%20views&color=0e75b6&style=flat" alt="kin-downey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-watagashi" alt="y-watagashi" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-watagashi&show_icons=true&locale=en&layout=compact" alt="y-watagashi" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kin-downey" alt="kin-downey" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kin-downey&show_icons=true&locale=en&layout=compact" alt="kin-downey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-watagashi&show_icons=true&locale=en" alt="y-watagashi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kin-downey&show_icons=true&locale=en" alt="kin-downey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-watagashi&" alt="y-watagashi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kin-downey&" alt="kin-downey" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Languages</h4>
@@ -34,7 +34,7 @@
 
 
 <!--
-**y-watagashi/y-watagashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kin-downey/kin-downey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
